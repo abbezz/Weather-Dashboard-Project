@@ -14,6 +14,7 @@ humidity, wind speed and UV index of a location that they search for.![va](https
 
 # Resources
 https://www.youtube.com/watch?v=QEu8_5bYm-w
+
 https://www.youtube.com/watch?v=6trGQWzg2AI
 
 
