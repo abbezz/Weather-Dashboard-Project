@@ -29,17 +29,6 @@ Links: https://github.com/abbezz/Weather-Dashboard-Project
 
 
 
-
-## Other Common Github Profile Sections
-
-
-🧠 I'm currently learning... Full stack developer
-
-📫 How to reach me... abbezz@live.com 
-
-
-
-
 ## 🛠 Skills
 Javascript
 jQuery
@@ -67,8 +56,11 @@ Includes a 5-Day Forecast below the current weather conditions. Each day for the
 4 Humidity
 
 
+## Other Common Github Profile Sections
 
-If you have any feedback, please reach out to me at abbezz@live.com
+
+🧠 I'm currently learning... Full stack developer
+📫  If you have any feedback, please reach out to me atabbezz@live.com 
 
 
 
