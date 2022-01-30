@@ -48,8 +48,6 @@ CSS
 Local Storage
 
 
-## Features
-These activities can be saved locally with side buttons featuring an on.click event.
 
 ## How it Works
  Make a Weather Dashboard
